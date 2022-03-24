@@ -1,4 +1,4 @@
-Minhas soluções dos problemas da [URI Online Judge]. Por enquanto estou iniciando as soluções com C e talvez faça em outras também, podes conferir o meu perfil da URI [aqui].
+Minhas soluções de alguns problemas da [URI Online Judge]. [Perfil URI].
 
 [URI Online Judge]: https://www.urionlinejudge.com.br/
-[aqui]: https://www.urionlinejudge.com.br/judge/pt/profile/571134
+[Perfil URI]: https://www.urionlinejudge.com.br/judge/pt/profile/571134
